@@ -1,0 +1,13 @@
+{
+  "scripts": {
+    "tsc": "tsc",
+    "tsup": "tsup ./src/index.ts"
+  },
+  "devDependencies": {
+    "tsup": "^5.12.7",
+    "typescript": "^4.6.4"
+  },
+  "dependencies": {
+    "reflect-metadata": "^0.1.13"
+  }
+}
